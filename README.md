@@ -1,4 +1,5 @@
 This is a script for showing the results of GALFIT-M multi-wavelength morphology fitting on CEERS data.
+![gal_results](https://github.com/markliuchina/CEERS_GALFIT-M_Plot_Results/assets/99796331/e432502a-cf82-4e74-a8b3-633c2ee72b4c)
 If you do not want the 'RGB' col, just delete it in the filters configuration list varaiable.
 
 Still under construction:
